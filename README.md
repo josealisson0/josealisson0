@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josealisson0
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning html e css
+- 👀 I’m interested in front-end and back-end
+- 🌱 I’m currently learning html e css - python
 - 💞️ I’m looking to collaborate on com risadas e conhecimento
 - 📫 How to reach me _josealissonn
 - 😄 Pronouns: wlw
